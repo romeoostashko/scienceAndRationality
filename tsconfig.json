@@ -8,7 +8,7 @@
       "components": ["./src/components"],
       "screens": ["./src/screens"],
       "asyncStorage": ["./src/asyncStorage"],
-      "stack": ["./src/stack"],
+      "navigation": ["./src/navigation"],
       "store": ["./src/store"],
       "hooks": ["./src/hooks"]
     }

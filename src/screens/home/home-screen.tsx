@@ -3,8 +3,8 @@ import React from 'react';
 
 export const HomeScreen = () => {
   return (
-    <View>
-      <Text>HomeScreen</Text>
+    <View style={{alignContent: 'center', justifyContent: 'center', flex: 1}}>
+      <Text style={{color: 'red'}}>HomeScreen</Text>
     </View>
   );
 };
